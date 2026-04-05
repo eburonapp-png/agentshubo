@@ -1,0 +1,7 @@
+{
+  "name": "OmniVoice Multi-Speaker Playground",
+  "description": "A professional multi-speaker TTS studio for dialogue composition, narration, and voice design using advanced AI models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
